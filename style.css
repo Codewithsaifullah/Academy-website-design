@@ -4,7 +4,7 @@
 }
 
 .main{
-    width: 100%;
+    width: auto;
     background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(https://cdn.wallpapersafari.com/73/8/CmALP4.jpg);
     background-size: cover;
     height: 100vh;
